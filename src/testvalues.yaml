@@ -1,0 +1,1 @@
+variable: <+stage.variables.test>
